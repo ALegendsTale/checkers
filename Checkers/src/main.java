@@ -43,7 +43,6 @@ public class main {
 	public static JMenuItem jm2 = new JMenuItem("Exit");
 
 	public static void main(String[] args) {
-		System.out.println("hi");
 		gui.creategui();
 		actionlisteners.actionsAndKeys();
 	}
