@@ -5,7 +5,7 @@ Developers
 =
 xXBlueCrownXx
 <br>
-Brandon Bischof
+ALegendsTale
 <br>
 About Us
 =
